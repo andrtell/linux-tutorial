@@ -1,7 +1,11 @@
 [Back to top](README.md)
 
 # History Tutorial
-Hints on how to use the `history` command with the `bash` shell.
+
+Linux `history` command tutorial and cheat-sheet
+
+The `bash` shell is assumed.
+
 ## Help
 
 ```
@@ -55,8 +59,8 @@ Clear history
 history -d 192
 ```
 Delete specific entry
+
 ## ENV
-See `man bash`.
 
 ```
 echo $HISTFILE
