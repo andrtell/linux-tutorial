@@ -42,9 +42,9 @@ Show recent history
 ```
 Execute entry no: `2` from history
 ```
-CTRL-R
+CTRL-r or CTRL-s
 ```
-Search history
+Search history. Add `stty -ixon` to `.bashrc` to enable `CTRL-s`.
 ```
 history -c
 ```
