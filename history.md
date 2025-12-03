@@ -1,6 +1,6 @@
 [Back to top](README.md)
 
-# History
+# History Tutorial
 Hints on how to use the `history` command with the `bash` shell.
 ## Help
 
