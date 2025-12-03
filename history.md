@@ -1,3 +1,5 @@
+[Back to top](README.md)
+
 # History
 Hints on how to use the `history` command with the `bash` shell.
 ## Help
